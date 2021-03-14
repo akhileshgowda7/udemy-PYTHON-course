@@ -29,4 +29,4 @@ ans = _sum(arr)
 # display sum  
 print ('Sum of the array is ', ans)  
   
-# This code is contributed by Himanshu Ranjan  
+# This code is contributed by Akhilesh Gowda  
